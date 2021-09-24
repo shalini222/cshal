@@ -1,0 +1,1 @@
+//count of binary number
